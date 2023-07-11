@@ -1,0 +1,8 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\jul11\jul11\bin\Debug\jul11.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\jul11\jul11\bin\Debug\jul11.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\jul11\jul11\bin\Debug\jul11.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\jul11\jul11\obj\Debug\jul11.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\jul11\jul11\obj\Debug\jul11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\jul11\jul11\obj\Debug\jul11.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\jul11\jul11\obj\Debug\jul11.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\jul11\jul11\obj\Debug\jul11.pdb
